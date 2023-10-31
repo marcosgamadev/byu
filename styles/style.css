@@ -55,6 +55,7 @@ nav a:hover{
 
 
 .book, .join {
+    font-family: 'Oswald', sans-serif;
     background-color:  #D6DEE2;
     color: black;
     text-decoration: none;
@@ -82,6 +83,7 @@ nav a:hover{
 
 
 footer{
+    font-family: 'Oswald', sans-serif;
     background-color: #00A8FF;
     color: black;
     padding: 25px 50px;
@@ -101,17 +103,19 @@ footer{
 
 
 h4 {
-    font-family: 'Playpen Sans', cursive;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
     color: beige;
 }
 
 .msg h2 {
+    font-family: 'Oswald', sans-serif;
     color: black;
 }
 
 
 .msg p {
+    font-family: 'Oswald', sans-serif;
     color: black;
     font-size: .8em;
     padding-bottom: 15px;
@@ -158,6 +162,7 @@ footer p a:hover {
 }
 
 .h2 {
+    font-family: 'Oswald', sans-serif;
     margin: 0;
 }
 
@@ -206,7 +211,7 @@ main section img {
 }
 
 nav {
-    font-family: 'Playpen Sans', cursive;
+    font-family: 'Oswald', sans-serif;
     display: flex;
     justify-content: space-around;
     background-color: transparent;
